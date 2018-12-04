@@ -1,3 +1,3 @@
 # Calculator exercise
 
->This step will be working on making addition work first
+>Now make a subtraction button
