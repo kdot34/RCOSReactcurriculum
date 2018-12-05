@@ -14,8 +14,8 @@ if (name == 'puppies') {
 name == 'kittens meow';
 ```
 * JS has while and do-while loops
- * while = basic looping
- * do-while = you wish to ensure that the body of the loop is executed at least once
+  * while = basic looping
+  * do-while = you wish to ensure that the body of the loop is executed at least once
  ```javascript
  while (true) {
    // an infinite loop!
