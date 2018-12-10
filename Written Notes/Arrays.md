@@ -26,18 +26,18 @@ a.length; // 101
 ```
 
 * Array Methods
-(1) a.toString()
-(2) a.toLocalString()
-(3) a.concat(item1[, item2[, ...[, itemN]]])
-(4) returns a new array with the items added to it
-(5) a.join(sep)
-(6) a.pop()
-(7) a.push(item1,...,itemN)
-(8) a.reverse()
-(9) a.shift()
-(10) a.slice(start[, end])
-    returns a sub array
-(11) a.sort([cmpfn])
-    takes optional comparison function
-(12) a.splice(start, delcount[, item1[, ..[, itemN]]])
-(13) a.unshift(item1[, item2[, ...[, itemN]]])
+  (1) a.toString()
+  (2) a.toLocalString()
+  (3) a.concat(item1[, item2[, ...[, itemN]]])
+  (4) returns a new array with the items added to it
+  (5) a.join(sep)
+  (6) a.pop()
+  (7) a.push(item1,...,itemN)
+  (8) a.reverse()
+  (9) a.shift()
+  (10) a.slice(start[, end])
+      returns a sub array
+  (11) a.sort([cmpfn])
+      takes optional comparison function
+  (12) a.splice(start, delcount[, item1[, ..[, itemN]]])
+  (13) a.unshift(item1[, item2[, ...[, itemN]]])

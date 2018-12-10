@@ -3,11 +3,11 @@
 * JS objects can be thought of as name-value pairs (like dicts in python, hash tables in C++)
 
 * 2 basic ways to create an empty object:
-(1)
+  (1)
 ```javascript
 var obj = new object();
 ```
-(2)
+  (2)
 ```javascript
 var obj = {};
 ```
